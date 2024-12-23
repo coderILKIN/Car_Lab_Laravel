@@ -1,0 +1,16 @@
+{
+    "welcome" : "Welcome",
+    "cars"   : "Cars",
+    "create" : "Create",
+    "save" : "Save",
+    "submit" : "Submit",
+    "list"  : "List",
+    "price_per_day" : "Price Per Day",
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "register": "Register",
+    "login": "Login",
+    "profile": "Profile"
+}
